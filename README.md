@@ -1,10 +1,12 @@
 Background Context
 
-        Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
+        Fix my code is a new type of project,
+        where we’ll jump into an existing code base and fix it!
 
 Usage
 
-        download the repository 0x00-Fix_My_Code_Challenge and use it as initial files for all solutions.
+        Download the repository 0x00-Fix_My_Code_Challenge and
+        use it as initial files for all solutions.
 
 Requirements
 
@@ -12,8 +14,6 @@ General
 
         Allowed editors: vi, vim, emacs
 
-        All your files will be compiled on Ubuntu 20.04 LTS
+        All files will be compiled on Ubuntu 20.04 LTS
 
-        All your files should end with a new line
-
-        A README.md file, at the root of the folder of the project is mandatory
+        All files should end with a new line
